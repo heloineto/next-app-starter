@@ -13,3 +13,5 @@ TODO
 1.  Automatically create a new Next.js project using the app directory. It ships with TypeScript by default. [Instructions here.](https://beta.nextjs.org/docs/installation#automatic-installation)
 
 1.  Install Tailwind. [Instructions here.](https://beta.nextjs.org/docs/styling/tailwind-css)
+
+    -   Add Tailwind eslint plugin. [Instructions here](https://www.npmjs.com/package/eslint-plugin-tailwindcss)

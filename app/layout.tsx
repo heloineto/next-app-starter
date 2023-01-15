@@ -1,7 +1,11 @@
 import { ReactNode } from 'react';
 import './globals.css';
 
-function RootLayout({ children }: { children: ReactNode }) {
+interface Props {
+    children: ReactNode;
+}
+
+function RootLayout({ children }: Props) {
     return (
         <html lang="en">
             <head />
