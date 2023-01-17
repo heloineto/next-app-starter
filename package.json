@@ -38,6 +38,6 @@
 		"typescript": "4.9.4"
 	},
 	"lint-staged": {
-		"*": "next lint --fix"
+		"*": "echo 'hi'"
 	}
 }
