@@ -21,3 +21,9 @@ TODO
     -   Install Prettier configuration `eslint-config-prettier`. [Instructions here.](https://prettier.io/docs/en/integrating-with-linters.html)
     -   Install Tailwind plugin `eslint-plugin-tailwindcss`. [Instructions here.](https://www.npmjs.com/package/eslint-plugin-tailwindcss)
     -   Install Typescript plugin `typescript-eslint`. [Instructions here.](https://typescript-eslint.io/getting-started#step-1-installation)
+
+1.  Configure Git hooks
+
+    -   Install `husky`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
+    -   Install `lint-staged`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
+    -   Install `commitlint`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
