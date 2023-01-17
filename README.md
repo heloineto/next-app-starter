@@ -14,4 +14,10 @@ TODO
 
 1.  Install Tailwind. [Instructions here.](https://beta.nextjs.org/docs/styling/tailwind-css)
 
-    -   Add Tailwind eslint plugin. [Instructions here](https://www.npmjs.com/package/eslint-plugin-tailwindcss)
+1.  Configure Prettier. [See configuration.](./.prettierrc)
+
+1.  Configure ESLint. [See configuration.](./.eslintrc.json)
+
+    -   Install Prettier configuration `eslint-config-prettier`. [Instructions here.](https://prettier.io/docs/en/integrating-with-linters.html)
+    -   Install Tailwind plugin `eslint-plugin-tailwindcss`. [Instructions here.](https://www.npmjs.com/package/eslint-plugin-tailwindcss)
+    -   Install Typescript plugin `typescript-eslint`. [Instructions here.](https://typescript-eslint.io/getting-started#step-1-installation)
