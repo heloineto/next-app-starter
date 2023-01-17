@@ -25,5 +25,5 @@ TODO
 1.  Configure Git hooks
 
     -   Install `husky`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
-    -   Install `lint-staged`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
-    -   Install `commitlint`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
+    -   Install `lint-staged`. [Instructions here.](https://www.npmjs.com/package/lint-staged)
+    -   Install `commitlint`. [Instructions here.](https://commitlint.js.org/#/guides-local-setup?id=install-commitlint)
