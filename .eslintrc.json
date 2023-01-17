@@ -16,7 +16,7 @@
 		"ecmaVersion": 2020,
 		"project": "./tsconfig.json"
 	},
-	"ignorePatterns": ["*.config.js"],
+	"ignorePatterns": ["*.config.js", "*.json"],
 	"rules": {
 		// This is for compatibility with the app folder. Might not be need in the future.
 		"@next/next/no-html-link-for-pages": "off"
