@@ -38,6 +38,6 @@
 		"typescript": "4.9.4"
 	},
 	"lint-staged": {
-		"*": "echo 'hi'"
+		"*": "prettier --write \"./app/**/*.{js,ts,jsx,tsx}\""
 	}
 }
