@@ -27,3 +27,8 @@ TODO
     -   Install `husky`. [Instructions here.](https://typicode.github.io/husky/#/?id=install)
     -   Install `lint-staged`. [Instructions here.](https://www.npmjs.com/package/lint-staged)
     -   Install `commitlint`. [Instructions here.](https://commitlint.js.org/#/guides-local-setup?id=install-commitlint)
+
+1.  Configure VScode settings
+
+    -   Configure settings. [See configuration.](./.vscode/settings.json)
+    -   Configure extensions. [See configuration.](./.vscode/extensions.json)

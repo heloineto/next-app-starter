@@ -38,9 +38,9 @@
 		"typescript": "4.9.4"
 	},
 	"lint-staged": {
-		"*": [
-			"prettier --write \"./app/**/*.{js,ts,jsx,tsx}\"",
-			"eslint --fix \"./app/**/*.{js,ts,jsx,tsx}\""
+		"./{app,pages}/**/*.{js,ts,jsx,tsx}": [
+			"prettier --write",
+			"eslint --config '.eslintrc-commit.js' --fix"
 		]
 	}
 }

@@ -1,4 +1,10 @@
 {
-	"typescript.tsdk": "node_modules\\.pnpm\\typescript@4.9.4\\node_modules\\typescript\\lib",
-	"typescript.enablePromptUseWorkspaceTsdk": true
+	"editor.codeActionsOnSave": [
+		"source.addMissingImports",
+		"source.fixAll",
+		"source.organizeImports"
+	],
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.foldingImportsByDefault": true,
+	"editor.formatOnSave": true
 }
