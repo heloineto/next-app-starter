@@ -25,7 +25,7 @@ module.exports = {
 		 * The rules below scream at your face all the time in development.
 		 * They should be only activated when committing (lint-staged).
 		 *
-		 * Re-activate these rules in ./.eslintrc-commit.js
+		 * Put these rules in ./.eslintrc-commit.js
 		 */
 		'@typescript-eslint/no-empty-interface': 'off',
 		'@typescript-eslint/no-unused-vars': 'off',
